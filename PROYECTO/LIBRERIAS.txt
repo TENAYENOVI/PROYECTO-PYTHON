@@ -1,0 +1,13 @@
+pip install BeautifulSoup4
+pip install requests
+pip install matplotlib
+pip install pandas 
+pip install numpy
+pip install django
+
+
+COMANDOS
+.venv/Scripts/activate
+.venv/Scripts/deactivate
+django-admin startproject proydjango
+py manage.py runserver
